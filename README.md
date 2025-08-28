@@ -17,15 +17,16 @@ Made in Collaboration with Colonel General
 
 ##  Results
 - 1-Year 95% Historical VaR: 2%.  
-- Breaches: 10 out of 12 days (~expected 5%).  
+- Breaches: 10 out of 12 days (~expected 5%).
+Bonus : After modelling nos, might as well get a eicher bike. Of course for my collaborator too.  
 
 
 ##  Next Steps
 - Add Parametric VaR (Variance-Covariance method).  
 - Add Monte Carlo Simulation for forward-looking risk.  
 - Extend model to a portfolio of stocks.  
-- Will upload them in seperate Repos,
+- Will upload them in separate Repos,
 
 
-## Author
-Developed by Me & Colonel General as part ofrisk modeling practice.
+## Authors
+Developed by Me & Colonel General as part of risk modeling practice.
