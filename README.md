@@ -28,4 +28,4 @@ Made in Collaboration with Colonel General
 
 
 ## Author
-Developed by [Your Name] as part of HF-style risk modeling practice.
+Developed by Me & Colonel General as part ofrisk modeling practice.
