@@ -18,7 +18,7 @@ Made in Collaboration with Colonel General
 ##  Results
 - 1-Year 95% Historical VaR: 2%.  
 - Breaches: 10 out of 12 days (~expected 5%).
-Bonus : After modelling nos, might as well get a eicher bike. Of course for my collaborator too.  
+ - Bonus : After modelling nos, might as well get a eicher bike. Of course for my collaborator too.  
 
 
 ##  Next Steps
